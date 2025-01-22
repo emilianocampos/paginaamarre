@@ -15,6 +15,10 @@ p{
 }
 .pserv{
 color: rgb(0, 0, 0);
+font-size: 0.8rem;
+}
+.tt{
+    font-size: 1rem;
 }
 .navs{
     background-color:  #CC9E75 !important;
@@ -616,4 +620,11 @@ color: rgb(0, 0, 0);
 
 .footer .copyright a:hover {
     color: var(--primary);
+}
+
+.car{
+    background-color: #CC9E75 !important;
+}
+.ass{
+    background-color: #ffffff !important;
 }
